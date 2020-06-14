@@ -2,9 +2,13 @@
 简易注册登录发布文章社区
 
 cd nuxt
+
 cd front
+
 npm install
+
 cd back
+
 npm install
 
 # nuxt.js egg.js mongo
